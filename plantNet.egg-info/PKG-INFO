@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: plantNet
+Version: 0.0.1
+Summary: A Raspberry Pi networking tool for capturing images
+Home-page: https://github.com/jacob-harrison/plantNet
+Author: Jacob Harrison
+Author-email: jrhmtf@mst.edu
+License: UNKNOWN
+Description: # plantNet Package
+        
+        This is the plantNet package. It is used for Raspberry Pi networking for imaging plants.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Freely Distributable
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

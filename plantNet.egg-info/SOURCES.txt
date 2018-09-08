@@ -1,0 +1,7 @@
+README.md
+setup.py
+plantNet/__init__.py
+plantNet.egg-info/PKG-INFO
+plantNet.egg-info/SOURCES.txt
+plantNet.egg-info/dependency_links.txt
+plantNet.egg-info/top_level.txt
